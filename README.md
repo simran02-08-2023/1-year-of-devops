@@ -7,23 +7,6 @@
 ## 📌 About
 
 This repository is my public learning journal.
-
-Instead of just completing tutorials, I will document:
-
-- 📚 Notes
-- 💻 Hands-on labs
-- 🛠 Mini projects
-- ☁ AWS practice
-- 🐳 Docker experiments
-- ⚙ CI/CD pipelines
-- 🌍 Infrastructure as Code
-- ☸ Kubernetes deployments
-- 📈 Progress updates
-
-My goal is to finish this roadmap with multiple production-style DevOps projects and be job-ready.
-
----
-
 # 🎯 Goal
 
 Become a DevOps Engineer by mastering
@@ -41,54 +24,6 @@ Become a DevOps Engineer by mastering
 - GitOps
 - Monitoring
 - Security
-
----
-
-# 🗓 Roadmap Progress
-
-| Month | Focus | Status |
-|--------|--------|--------|
-| Month 1 | Python, Bash, OS Fundamentals | ⬜ |
-| Month 2 | Linux Deep Dive | ⬜ |
-| Month 3 | Git, Networking, AWS Basics | ⬜ |
-| Month 4-5 | Docker & AWS Core Services | ⬜ |
-| Month 6 | CI/CD to AWS | ⬜ |
-| Month 7-8 | Terraform & Ansible | ⬜ |
-| Month 9-10 | Kubernetes, GitOps & Monitoring | ⬜ |
-| Month 11-12 | Capstone, Certifications & Interview Prep | ⬜ |
-
-Legend
-
-- ⬜ Not Started
-- 🟨 In Progress
-- ✅ Completed
-
----
-
-# 📂 Repository Structure
-
-```
-1-year-of-devops
-
-├── README.md
-├── Resources
-├── CheatSheets
-├── Notes
-├── Projects
-│
-├── Month-01
-├── Month-02
-├── Month-03
-├── Month-04
-├── Month-05
-├── Month-06
-├── Month-07
-├── Month-08
-├── Month-09
-├── Month-10
-├── Month-11
-└── Month-12
-```
 
 ---
 
@@ -227,29 +162,12 @@ Books
 
 ---
 
-# 📈 Progress
-
-Current Week:
-
-Week 0 / 40
-
-Current Focus:
-
-Repository Setup
-
-Last Updated:
-
-July 2026
-
----
-
 # 🤝 Connect With Me
 
 GitHub:
 https://github.com/simran02-08-2023
 
-LinkedIn:
-(Add your LinkedIn URL)
+LinkedIn:https://www.linkedin.com/in/simran-singh1128/
 
 ---
 
